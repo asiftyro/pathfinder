@@ -1,0 +1,11 @@
+[
+    {
+        "id":"edit",
+        "children":
+        [	{"caption": "-", "id": "pathfinder" },
+            {"command": "pathfinder_copy_path", "caption": "PF: Copy Path from file"},
+            {"command": "pathfinder_paste_relative_path", "caption": "PF: Paste Relative Path"},
+            {"command": "pathfinder_paste_this_file_location", "caption": "PF: Paste Current file Path"}
+        ]
+    }
+]

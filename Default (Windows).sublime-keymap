@@ -1,0 +1,12 @@
+[
+    {
+        "keys": ["ctrl+shift+c"], "command": "pathfinder_copy_path"
+    },
+    {
+        "keys": ["ctrl+shift+v"], "command": "pathfinder_paste_relative_path"
+    },
+    {
+        "keys": ["ctrl+shift+x"], "command": "pathfinder_paste_this_file_location"
+    }
+]
+
